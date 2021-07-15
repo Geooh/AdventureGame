@@ -5,6 +5,12 @@ Player has max health of 100.
 
 Player has max attack damage of 25 (attack damage is randomized).
 
+Enemies in the dungeon (current version)
+- Goblin
+- Troll
+- Giant Snake
+- Swarm of Bugs
+
 Enemies have max health of 50 (max health amount is randomized).
 
 Enemies have max attack damage of 10 (attack damage is randomized).
