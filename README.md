@@ -9,7 +9,10 @@ Enemies have max health of 50 (max health amount is randomized).
 
 Enemies have max attack damage of 10 (attack damage is randomized).
 
-Players are given three choices when faced against an enemy, they can decide to fight, use healing potion, or run away.
+Players are given three choices when faced against an enemy
+- they can decide to attack
+- use healing potion
+- run away
 
-At the end of the dungeon depending on deciding to leave or have been defeated, will be presented with an option to continue or exit the dungeon.
+At the end of the dungeon, the player will be presented with an option to continue exploring or exit the dungeon.
 
