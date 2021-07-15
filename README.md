@@ -1,4 +1,4 @@
-# AdventureGame
+# Text based Adventure Game
 Beginner text based adventure game
 
 Player has max health of 100.
